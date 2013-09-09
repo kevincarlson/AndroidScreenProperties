@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Screen Properties</string>
+    <string name="action_settings">Settings</string>
+    <string name="horizontal_resolution">Horizontal Resolution</string>
+    <string name="vertical_resolution">Vertical Resolution</string>
+    <string name="diagonal_size">Diagonal Size</string>
+    <string name="calculate">Calculate</string>
+    <string name="ppi">ppi</string>
+    <string name="inches">inches</string>
+    <string name="pixel_density">Pixel Density</string>
+    <string name="horizontal_size">Horizontal Size</string>
+    <string name="vertical_size">Vertical Size</string>
+    <string name="unknown">Unknown</string>
+
+</resources>
